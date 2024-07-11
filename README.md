@@ -2,11 +2,13 @@
 
 This is an implementation of a mediator using [CredoJS](https://credo.js.org) and it is based on the [Animo Mediator](https://github.com/animo/animo-mediator) which implements push notifications which are sent to mobile wallets when they have a message pending.
 
-
-
 ## Setup
 
 The project uses `dotenv`. You can create a `.env` file and add environmental variables there. The app will take the values from there.
+
+### Dependencies
+
+Install dependencies with `yarn install`  
 
 ### Database
 
